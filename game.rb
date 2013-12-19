@@ -20,4 +20,4 @@ while (!(win) && (try_count <= max_try))
 	end
 end
 puts win ? "Vous avez gagné !" : "Vous avez perdu ! La réponse était : " + solution.to_s
-#git test2
+#git test3
